@@ -1,70 +1,77 @@
-# Getting Started with Create React App
+# Summary Card Component with Peek-and-Slide Animation - ReactJS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my solution for the Summary Card Component challenge from Frontend Mentor with an added peek-and-slide animation effect. The challenge was to create a responsive summary card component that displays a result summary of a particular skill or category.
+## Table of Contents
 
-## Available Scripts
+- [Overview](#overview)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+- [Features](#features)
+- [Technologies](#technologies)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Acknowledgements](#acknowledgements)
+- [Credits](#credits)
 
-In the project directory, you can run:
+## Overview
 
-### `npm start`
+This is a README file for a project that includes a Summary Card Component developed with React and an added peek-and-slide animation effect. The summary card component is responsive and displays  a result summary of a particular skill or category. The card  has a a peek-and-slide animation effect on  load.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Screenshot
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+| ![](./screenshots/desktop.png) | ![](./screenshots/mobile.png) |
+| ------------------------------ | ----------------------------- |
+| Desktop version                | Mobile version                |
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Links
 
-### `npm run build`
+- [Live Demo](https://hatemhenchir.github.io/results-summary-component/)
+- [Repository](https://github.com/hatemhenchir/results-summary-component/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Features
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The features of this project are as follows:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Displays the number of challenges completed, rank, and points
+- Animation effect on load
+- Responsive design for desktop and mobile
 
-### `npm run eject`
+## Technologies
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+The technologies used in this project are as follows:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- React
+- HTML
+- CSS
+- JavaScript
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Setup
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+To set up this project, follow the steps below:
 
-## Learn More
+1. Clone the repository: `git clone https://github.com/hatemhenchir/results-summary-component.git`
+2. Install dependencies: `npm install`
+3. Start the development server: `npm start`
+4. Open the application in your browser at `http://localhost:3000`
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Usage
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+To use this project, follow the steps below:
 
-### Code Splitting
+1. Open the application in your browser at `http://localhost:3000`
+2. Click on the share button to display the social media icons with a fade-in animation effect
+3. Click on any social media icon to share the article
+4. Scroll down the page to view the fade-in animation effect on the article preview components
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Acknowledgements
 
-### Analyzing the Bundle Size
+This project was developed with reference to the following resources:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- [Frontend Mentor](https://www.frontendmentor.io/challenges/challenge-result-summary-card-Xyz2Vfljl) for providing the challenge
+- [React documentation](https://reactjs.org/docs/getting-started.html) for reference and guidance
 
-### Making a Progressive Web App
+## Credits
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- My LinkedIn: [@hatem-henchir-7a92141a8](https://www.linkedin.com/in/hatem-henchir-7a92141a8/)
+- My Frontend Mentor: [@hatemhenchir](https://www.frontendmentor.io/profile/hatemhenchir)
